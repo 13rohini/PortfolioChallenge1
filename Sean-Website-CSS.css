@@ -1,0 +1,137 @@
+.main-container {
+    background-color: #5cc8de;
+    padding: 0;
+}
+
+
+.navigation {
+    text-align:center;
+    padding: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: medium;
+    word-spacing: 200px;
+    background-color: #5cc8de;
+
+}
+
+
+.headline-intro {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 5;
+    font-size: larger;
+    color: white;
+    font-stretch:ultra-expanded
+}
+
+.hills-image {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 55vh;
+}
+
+.second-cloud {
+    width: 100px;
+    height: 50px;
+
+}
+
+.second1-cloud {
+max-width: 500px;
+max-height: 100px;
+justify-content: right;
+
+}
+
+img {
+max-width: 100%;
+max-height: 100%;
+scale: 75%;
+}
+
+.second-container {
+    text-align: center;
+
+}
+
+.lower-block {
+    background-color: white;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -80px;
+
+}
+
+.girl-image {
+    display: block;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.lower-other{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 0px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+}
+
+.whatcanido {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #5cc8de;
+    color: white;
+}
+
+.whatcanido-table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+    max-width: 500px;
+    margin: 25px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    resize:both;
+  }
+  
+  input[type="submit"] {
+    display: block;
+    background-color: #004fa3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
